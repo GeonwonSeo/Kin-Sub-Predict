@@ -1,0 +1,8 @@
+kin-subdffinal.csv는 1.4gb로 용량부족
+
+dffinal = pd.read_csv("kin-subdffinal.csv")은 코드진행하며 생성
+
+dfpsphmmkinsub.pickle는 39.3gb로 용량부족
+
+with open( "dfpsphmmkinsub.pickle", "rb" ) as file:
+    loaded_data = pickle.load(file)는 코드진행하며 생성
