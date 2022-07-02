@@ -1,3 +1,3 @@
 # Kin-Sub-Predict
 
-#### Efficient based kinase-substrate phosphorylation prediction
+#### Efficientnet based kinase-substrate phosphorylation prediction
